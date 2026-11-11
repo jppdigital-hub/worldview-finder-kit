@@ -88,19 +88,19 @@ What chapter are you in right now, and what would you call it?
 
 ### LS-003
 
-Tell me about a moment that stands out as one of the best in your life.
+Tell me about a memory that stands out as one of the best in your life.
 
-- Use the scene method above.
+- What happened, and what do you remember most?
 
 ### LS-004
 
-Tell me about a moment that stands out as one of the hardest. It doesn't have to be the very worst. Share only what you want to.
+Tell me about a memory that stands out as one of the hardest. It doesn't have to be the very worst. Share only what you want to.
 
 - How do you see it now compared with then?
 
 ### LS-005
 
-Tell me about a moment when something about you, or the direction of your life, changed. If no single turning point stands out, any important change works.
+Tell me about a time when something about you, or the direction of your life, changed. If no single turning point stands out, any important change works.
 
 - Did you know it was a turning point at the time, or only later?
 
@@ -118,13 +118,13 @@ What's a memory from childhood or your teen years that still feels heavy? Share 
 
 ### LS-008
 
-Besides anything you've already told, what's a moment from your adult life that stays especially vivid?
+Besides anything you've already told, what's a memory from your adult life that stays especially vivid?
 
 - What makes it so vivid?
 
 ### LS-009
 
-Tell me about a moment that felt bigger than you. It could be religious or spiritual, or awe at nature, music, a person, or anything else. It's fine if nothing comes to mind.
+Tell me about a memory that felt bigger than you. It could be religious or spiritual, or awe at nature, music, a person, or anything else. It's fine if nothing comes to mind.
 
 - Did it change how you see anything?
 
@@ -166,7 +166,7 @@ What's the biggest challenge you've faced in your life?
 
 Has a major health problem, yours or someone close to you, shaped your life?
 
-- How did you cope? What was dealing with care or the system like? What did it change?
+- How did you cope? What was dealing with doctors and the healthcare system like? What did it change?
 
 ### LS-016
 
@@ -202,7 +202,7 @@ What do you think is the single most important value in how people live?
 
 Looking across your whole story, past and future, what's one idea or thread that runs through it?
 
-- Has that thread changed over time? Ask again after more chapters and scenes are told.
+- Has that thread changed over time?
 
 ## Closing
 
@@ -213,8 +213,6 @@ What else would someone need to know to understand your story?
 ### LS-022
 
 What did telling this part of your story bring up for you?
-
-- Offer at the end of sessions that covered scenes or chapters. Fully optional.
 
 # Worldview Questions
 

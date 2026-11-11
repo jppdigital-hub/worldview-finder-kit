@@ -2,7 +2,7 @@
 
 Avery is fictional. This is the end of Avery's first session, after one scene.
 
-**AI · `LS-003`.** Tell me about a moment that stands out as one of the best in your life.
+**AI · `LS-003`.** Tell me about a memory that stands out as one of the best in your life.
 
 **Avery.** Opening the tool library was a good day.
 

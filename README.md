@@ -1,6 +1,6 @@
 # Worldview Finder
 
-Version 1.0.0 · [Worldview Finder on PaulLinehan.co](https://paullinehan.co/resources/worldview-finder/)
+Version 1.0.1 · [Worldview Finder on PaulLinehan.co](https://paullinehan.co/resources/worldview-finder/)
 
 An interview you can run with an AI assistant. Start with a memory from your life. Over time, you can add the chapters of your story and put what you believe into your own words. You can start anywhere, skip anything, and stop whenever you want.
 
